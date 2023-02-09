@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "teste-sem-quebra-linha-publico"
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "dx-team-a"
